@@ -22,7 +22,7 @@ def compare(med_name):
     return shopping_results
 
 c1,c2= st.columns(2)
-c1.image("pharmacy_logo",width=200)
+c1.image("pharmacy_logo.jpg", width=200)
 c2.header("E-pharmacy price comparison system")
 #"""""...............................................""""""""
 
